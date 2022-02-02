@@ -12,7 +12,7 @@ Il progetto si pone dunque come obiettivo quello di fornire un supporto per rend
 
 *__Identificazione casi d'uso e descrizione__:
 
-..*Amministratore*..
+⋅⋅⋅*Amministratore*⋅⋅
 ...Gestione Personale..
 ...Gestione Luogo..
 ...Visualizza Problema..
